@@ -1,0 +1,16 @@
+{
+  "name": "mhapu46/workopia-php",
+  "description": "Building an simple job listing website using PHP",
+  "authors": [
+    {
+      "name": "Mehorab Hossain",
+      "email": "mehrab72862@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Framework\\": "Framework/",
+      "App\\": "App/"
+    }
+  }
+}
